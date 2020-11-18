@@ -1,6 +1,7 @@
 <h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
 <h3 align="center">Algumas características destacadas na minha trajetória profissional:&nbsp;
-♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET. &nbsp;
+<p>
+♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET. &nbsp;</p>
 ♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL. &nbsp;
 ♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura. &nbsp;
 ♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos. &nbsp;
