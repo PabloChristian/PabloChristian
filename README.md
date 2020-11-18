@@ -2,9 +2,9 @@
 <p align="left">Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.</p>
 
 <h3 align="left">👨‍Algumas características destacadas na minha trajetória profissional:</h3>
-&nbsp;♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET.
-&nbsp;♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL.
-&nbsp;♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.
+<p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET.</p>
+<p align="left">♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL.</p>
+<p align="left">♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</p>
 <p align="left">♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</p>
 <p align="left">♦ Utilização de metodologias Ágeis Scrum e Kanban.</p>
 <p align="left">♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</p>
@@ -20,7 +20,7 @@
 <p align="left">♦ Padrões de Projeto (Singleton,Builder,Facade,FactoryMethod..).</p>
 <p align="left">♦ Clean Code.</p>
 <p align="left">♦ SOLID.</p>
-<p align="left">Link do Projeto: [url="https://github.com/PabloChristian/ECommerce"]Clique aqui[/url])</p>
+<p align="left">Link do Projeto: <a href="https://github.com/PabloChristian/ECommerce">Clique aqui</a>)</p>
 
 <h3 align="left">🌱 Estou no momento aprendendo&nbsp;</h3>
 <p align="left">♦ .NET Core.</p>
@@ -28,7 +28,7 @@
 <p align="left">♦ Arquitetura em Cloud.</p>
 
 <h3 align="left">💻 Lista dos meus projetos</h3>
-<p align="left">[url="https://github.com/PabloChristian?tab=repositories"]Clique aqui[/url]</p>
+<p align="left"><a href="https://github.com/PabloChristian?tab=repositories">Clique aqui</a></p>
 
 <h3 align="left">📫 Contato&nbsp;</h3>
 <p align="left">♦ Email: snakepablo@hotmail.com</p>
