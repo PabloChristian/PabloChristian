@@ -1,34 +1,34 @@
 <h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
-<h3 align="center">Algumas características destacadas na minha trajetória profissional:&nbsp;
-<p>
-♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET. &nbsp;</p>
-♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL. &nbsp;
-♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura. &nbsp;
-♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos. &nbsp;
-♦ Utilização de metodologias Ágeis Scrum e Kanban. &nbsp;
-♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas. &nbsp;
-♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET MVC e WebApi.</h3>&nbsp;
+<h3 align="left">Algumas características destacadas na minha trajetória profissional:&nbsp;</p>
+<p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET. &nbsp;</p>
+<p align="left">♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL. &nbsp;</p>
+<p align="left">♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura. &nbsp;</p>
+<p align="left">♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos. &nbsp;</p>
+<p align="left">♦ Utilização de metodologias Ágeis Scrum e Kanban. &nbsp;</p>
+<p align="left">♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas. &nbsp;</p>
+<p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET MVC e WebApi.</h3>&nbsp;</p>
 
-- 🔭 No momento estou trabalhando em um projeto ECommerce com as seguintes características:&nbsp;
-♦ .NET Core.&nbsp;
-♦ Padrão arquitetural CQRS.&nbsp;
-♦ Estilo arquitetural Microserviços.&nbsp;
-♦ Padrão de Design DDD.&nbsp;
-♦ Clean Code.&nbsp;
-♦ SOLID. &nbsp;
-Link do Projeto: [Ecommerce](https://github.com/PabloChristian/ECommerce)&nbsp;
+<p align="left">- 🔭 No momento estou trabalhando em um projeto ECommerce com as seguintes características:&nbsp;</p>
+<p align="left">♦ .NET Core.&nbsp;</p>
+<p align="left">♦ Padrão arquitetural CQRS.&nbsp;</p>
+<p align="left">♦ Estilo arquitetural Microserviços.&nbsp;</p>
+<p align="left">♦ Padrão de Design DDD.&nbsp;</p>
+<p align="left">♦ Clean Code.&nbsp;</p>
+<p align="left">♦ SOLID. &nbsp;</p>
+<p align="left">Link do Projeto: [Ecommerce](https://github.com/PabloChristian/ECommerce)&nbsp;</p>
 
-- 🌱 Estou no momento aprendendo:&nbsp;
-♦ .NET Core.&nbsp;
-♦ ASP.NET Core.&nbsp;
-♦ Arquitetura em Cloud.&nbsp;
+<p align="left">- 🌱 Estou no momento aprendendo:&nbsp;</p>
+<p align="left">♦ .NET Core.&nbsp;</p>
+<p align="left">♦ ASP.NET Core.&nbsp;</p>
+<p align="left">♦ Arquitetura em Cloud.&nbsp;</p>
 
-- 👨‍💻 Lista dos meus projetos: &nbsp;
-[https://github.com/PabloChristian?tab=repositories](https://github.com/PabloChristian?tab=repositories)&nbsp;
+<p align="left">- 👨‍💻 Lista dos meus projetos: &nbsp;</p>
+<p align="left">[https://github.com/PabloChristian?tab=repositories](https://github.com/PabloChristian?tab=repositories)&nbsp;</p>
 
-- 📫 Contato: &nbsp;
-♦ **snakepablo@hotmail.com**&nbsp;
-
+<p align="left">- 📫 Contato: &nbsp;</p>
+<p align="left">♦ **snakepablo@hotmail.com**</p>
+  
+&nbsp;&nbsp;
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-christian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pablo-christian/" height="30" width="40" /></a>
