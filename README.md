@@ -14,15 +14,15 @@
 
 <h3 align="left">🔭 Habilidades Principais&nbsp;</h3>
 <p align="left">♦ .NET/.NET Core.</p>
-<p align="left">♦ ASP.NET MVC / WebAPI</p>
-<p align="left">♦ REST</p>
+<p align="left">♦ ASP.NET MVC / WebAPI.</p>
+<p align="left">♦ REST.</p>
 <p align="left">♦ Estilo arquitetural Microserviços.</p>
-<p align="left">♦ Padrão arquitetural CQRS e Arquitetura Orientada a Eventos</p>
+<p align="left">♦ Padrão arquitetural CQRS e Arquitetura Orientada a Eventos.</p>
 <p align="left">♦ Padrão de Design DDD.</p>
 <p align="left">♦ Padrões de Projeto (Singleton,Builder,Facade,FactoryMethod..).</p>
 <p align="left">♦ Clean Code.</p>
 <p align="left">♦ SOLID.</p>
-<p align="left">Link do Projeto: <a href="https://github.com/PabloChristian/ECommerce">Clique aqui</a>)</p>
+<p align="left">Link do Projeto: <a href="https://github.com/PabloChristian/ECommerce">Clique aqui</a></p>
 <p align="left"></p>
 
 <h3 align="left">🌱 Estudando&nbsp;</h3>
