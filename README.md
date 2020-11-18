@@ -1,4 +1,6 @@
 <h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
+<h2 align="left">Profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.</h2>
+
 <h3 align="left">Algumas características destacadas na minha trajetória profissional:</h3>
 <p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET.</p>
 <p align="left">♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL.</p>
@@ -8,7 +10,7 @@
 <p align="left">♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</p>
 <p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET MVC e WebApi.</p>
 
-<p align="left">- 🔭 No momento estou trabalhando em um projeto ECommerce com as seguintes características:</p>
+<h3 align="left">- 🔭 No momento estou trabalhando em um projeto ECommerce com as seguintes características:</h3>
 <p align="left">♦ .NET Core.</p>
 <p align="left">♦ Padrão arquitetural CQRS.</p>
 <p align="left">♦ Estilo arquitetural Microserviços.</p>
@@ -22,13 +24,12 @@
 <p align="left">♦ ASP.NET Core.</p>
 <p align="left">♦ Arquitetura em Cloud.</p>
 
-<p align="left">- 👨‍💻 Lista dos meus projetos:</p>
+<h3 align="left">- 👨‍💻 Lista dos meus projetos:</h3>
 <p align="left">[https://github.com/PabloChristian?tab=repositories](https://github.com/PabloChristian?tab=repositories)</p>
 
-<p align="left">- 📫 Contato:</p>
+<h3 align="left">- 📫 Contato:</h3>
 <p align="left">♦ **snakepablo@hotmail.com**</p>
   
-&nbsp;&nbsp;
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-christian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pablo-christian/" height="30" width="40" /></a>
