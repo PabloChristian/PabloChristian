@@ -1,5 +1,4 @@
-<h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>&nbsp;
-
+<h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
 <h3 align="center">Algumas características destacadas na minha trajetória profissional:&nbsp;
 ♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET. &nbsp;
 ♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL. &nbsp;
@@ -7,27 +6,27 @@
 ♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos. &nbsp;
 ♦ Utilização de metodologias Ágeis Scrum e Kanban. &nbsp;
 ♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas. &nbsp;
-♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET MVC e WebApi.</h3>
+♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET MVC e WebApi.</h3>&nbsp;
 
-- 🔭 No momento estou trabalhando em um projeto ECommerce com as seguintes características:
-♦ .NET Core.
-♦ Padrão arquitetural CQRS.
-♦ Estilo arquitetural Microserviços.
-♦ Padrão de Design DDD.
-♦ Clean Code.
-♦ SOLID. 
-Link do Projeto: [Ecommerce](https://github.com/PabloChristian/ECommerce)
+- 🔭 No momento estou trabalhando em um projeto ECommerce com as seguintes características:&nbsp;
+♦ .NET Core.&nbsp;
+♦ Padrão arquitetural CQRS.&nbsp;
+♦ Estilo arquitetural Microserviços.&nbsp;
+♦ Padrão de Design DDD.&nbsp;
+♦ Clean Code.&nbsp;
+♦ SOLID. &nbsp;
+Link do Projeto: [Ecommerce](https://github.com/PabloChristian/ECommerce)&nbsp;
 
-- 🌱 Estou no momento aprendendo:
-♦ .NET Core.
-♦ ASP.NET Core.
-♦ Arquitetura em Cloud.
+- 🌱 Estou no momento aprendendo:&nbsp;
+♦ .NET Core.&nbsp;
+♦ ASP.NET Core.&nbsp;
+♦ Arquitetura em Cloud.&nbsp;
 
-- 👨‍💻 Lista dos meus projetos: 
-[https://github.com/PabloChristian?tab=repositories](https://github.com/PabloChristian?tab=repositories)
+- 👨‍💻 Lista dos meus projetos: &nbsp;
+[https://github.com/PabloChristian?tab=repositories](https://github.com/PabloChristian?tab=repositories)&nbsp;
 
-- 📫 Contato: 
-♦ **snakepablo@hotmail.com**
+- 📫 Contato: &nbsp;
+♦ **snakepablo@hotmail.com**&nbsp;
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
