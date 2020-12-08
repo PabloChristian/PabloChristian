@@ -3,13 +3,13 @@
 <p align="left"></p>
 
 <h3 align="left">👨‍Algumas características destacadas na minha trajetória profissional:</h3>
-<p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET.</p>
+<p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</p>
 <p align="left">♦ Utilização das linguagens C#, Java, VB.NET, Javascript, HTML, CSS e SQL.</p>
 <p align="left">♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</p>
 <p align="left">♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</p>
 <p align="left">♦ Utilização de metodologias Ágeis Scrum e Kanban.</p>
 <p align="left">♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</p>
-<p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET MVC e WebApi.</p>
+<p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</p>
 <p align="left"></p>
 
 <h3 align="left">🔭 Habilidades Principais&nbsp;</h3>
