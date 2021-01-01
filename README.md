@@ -42,9 +42,9 @@
   
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-christian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pablo-christian/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-christian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pablo-christian/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pablo christian pereira nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pablo christian pereira nazareth" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/snakepablo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/snakepablo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/snakepablo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/snakepablo" height="30" width="40" /></a>
 <a href="https://instagram.com/@pablo.cpnazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@pablo.cpnazareth" height="30" width="40" /></a>
 </p>
 <p align="left"></p>
