@@ -48,4 +48,4 @@
 <a href="https://instagram.com/@pablo.cpnazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@pablo.cpnazareth" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablochristian&show_icons=true&locale=en&layout=compact" alt="pablochristian" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact" alt="pablochristian" /></p>
