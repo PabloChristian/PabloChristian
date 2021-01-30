@@ -28,7 +28,7 @@
 <h3 align="left">🌱 Estudando&nbsp;</h3>
 <p align="left">♦ CQRS</p>
 <p align="left">♦ AWS</p>
-<p align="left">♦ ANGULAR</p>
+<p align="left">♦ Angular</p>
 <p align="left"></p>
 
 <h3 align="left">💻 Lista dos meus projetos</h3>
@@ -47,5 +47,3 @@
 <a href="https://www.facebook.com/snakepablo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/snakepablo" height="30" width="40" /></a>
 <a href="https://instagram.com/@pablo.cpnazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@pablo.cpnazareth" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact" alt="pablochristian" /></p>
