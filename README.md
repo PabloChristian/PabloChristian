@@ -14,7 +14,7 @@
 
 <h3 align="left">🔭 Habilidades Principais&nbsp;</h3>
 <p align="left">♦ .NET/.NET Core.</p>
-<p align="left">♦ ASP.NET MVC / WebAPI.</p>
+<p align="left">♦ ASP.NET Core MVC / WebAPI.</p>
 <p align="left">♦ REST.</p>
 <p align="left">♦ Estilo arquitetural Microserviços.</p>
 <p align="left">♦ Padrão arquitetural CQRS e Arquitetura Orientada a Eventos.</p>
@@ -26,9 +26,9 @@
 <p align="left"></p>
 
 <h3 align="left">🌱 Estudando&nbsp;</h3>
-<p align="left">♦ .NET Core.</p>
-<p align="left">♦ ASP.NET Core.</p>
-<p align="left">♦ Arquitetura em Cloud.</p>
+<p align="left">♦ CQRS</p>
+<p align="left">♦ AWS</p>
+<p align="left">♦ ANGULAR</p>
 <p align="left"></p>
 
 <h3 align="left">💻 Lista dos meus projetos</h3>
