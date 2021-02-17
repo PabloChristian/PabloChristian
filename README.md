@@ -1,5 +1,5 @@
-<h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
-<p align="left">Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.</p>
+<<h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
+<p align="left" font-size:10px>Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.</p>
 
 <p align="left">Portfolio Online (em construção):
 https://pablochristian.github.io/Portfolio/
