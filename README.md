@@ -52,3 +52,5 @@ https://pablochristian.github.io/Portfolio/
 <a href="https://www.facebook.com/snakepablo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/snakepablo" height="30" width="40" /></a>
 <a href="https://instagram.com/@pablo.cpnazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@pablo.cpnazareth" height="30" width="40" /></a>
 </p>
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
