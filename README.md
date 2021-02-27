@@ -96,8 +96,6 @@ https://pablochristian.github.io/Portfolio/
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/powershell.svg" alt="powersheel" style="max-width:100%;">
   </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablochristian&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
-
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/pablochristian/github-readme-stats)
 
 </div>
