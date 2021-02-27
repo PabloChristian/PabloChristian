@@ -7,14 +7,15 @@ Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós
 https://pablochristian.github.io/Portfolio/
 
 #### 👨‍Conhecimentos
-<p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</p>
-<p align="left">♦ Utilização das linguagens, Java, VB.NET, Javascript, HTML, CSS e SQL e framework Angular.</p>
-<p align="left">♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</p>
-<p align="left">♦ Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</p>
-<p align="left">♦ Utilização de metodologias Ágeis Scrum e Kanban.</p>
-<p align="left">♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</p>
-<p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</p>
-
+<ul>
+<li>E xperiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</li>
+<li> Utilização das linguagens, Java, VB.NET, Javascript, HTML, CSS e SQL e framework Angular.</li>
+<li> Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</li>
+<li> Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</li>
+<li> Utilização de metodologias Ágeis Scrum e Kanban.</li>
+<li> Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</li>
+<li> Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</li>
+</ul>
 #### 🔭 Habilidades Principais
 <p align="left">♦ .NET/.NET Core.</p>
 <p align="left">♦ ASP.NET Core MVC / WebAPI.</p>
@@ -25,7 +26,6 @@ https://pablochristian.github.io/Portfolio/
 <p align="left">♦ Padrões de Projeto (Singleton,Builder,Facade,FactoryMethod..).</p>
 <p align="left">♦ Clean Code.</p>
 <p align="left">♦ SOLID.</p>
-<p align="left">Link do Projeto: <a href="https://github.com/PabloChristian/ECommerce">Clique aqui</a></p>
 <p align="left"></p>
 
 #### 🌱 Estudando
@@ -54,19 +54,10 @@ https://pablochristian.github.io/Portfolio/
 </a>
 </div>
 
-#### Development Stack:
+#### Development Stack
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/dotnet.svg" alt="dotnet" style="max-width:100%;">
-  </a>
- <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/csharp.svg" alt="csharp" style="max-width:100%;">
-  </a>
-<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width:100%;">
-  </a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/jquery.svg" alt="jquery" style="max-width:100%;">
   </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width:100%;">
