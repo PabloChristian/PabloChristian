@@ -34,7 +34,6 @@ https://pablochristian.github.io/Portfolio/
 <ul>
 <li> Angular</li>
 <li> Azure</li>
-<li> React</li>
 </ul>
 
 #### 💻 Lista de Projetos &nbsp;
