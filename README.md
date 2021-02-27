@@ -32,10 +32,9 @@ https://pablochristian.github.io/Portfolio/
 
 #### 🌱 Estudando
 <ul>
-<p align="left">♦ CQRS</p>
-<p align="left">♦ AWS</p>
-<p align="left">♦ Angular</p>
-<p align="left"></p>
+<li> CQRS</p>
+<li> Azure</li>
+<li> Angular</li>
 </ul>
 
 #### 💻 Lista de Projetos &nbsp;
