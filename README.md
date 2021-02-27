@@ -60,6 +60,17 @@ https://pablochristian.github.io/Portfolio/
 #### Development Stack
 
 <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width:100%;">
+</a>
+  
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="max-width:100%;">
+</a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width:100%;">
+</a>
+
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width:100%;">
   </a>
 <a href="#">
