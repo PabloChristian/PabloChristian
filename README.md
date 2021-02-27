@@ -1,13 +1,10 @@
-<h1 align="center">Olá! 👋, Me chamo Pablo Christian</h1>
-<p align="left">Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.</p>
+Olá! 👋, Me chamo Pablo Christian.
+Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
 
-<p align="left">Portfolio Online (em construção):
+#### 💻 Portfolio Online (em construção):
 https://pablochristian.github.io/Portfolio/
-</p>
 
-<p align="left"></p>
-
-<h3 align="left">👨‍Algumas características destacadas na minha trajetória profissional:</h3>
+#### 👨‍Algumas características destacadas na minha trajetória profissional:
 <p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</p>
 <p align="left">♦ Utilização das linguagens, Java, VB.NET, Javascript, HTML, CSS e SQL e framework Angular.</p>
 <p align="left">♦ Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</p>
@@ -17,7 +14,7 @@ https://pablochristian.github.io/Portfolio/
 <p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</p>
 <p align="left"></p>
 
-<h3 align="left">🔭 Habilidades Principais&nbsp;</h3>
+#### 🔭 Habilidades Principais
 <p align="left">♦ .NET/.NET Core.</p>
 <p align="left">♦ ASP.NET Core MVC / WebAPI.</p>
 <p align="left">♦ REST.</p>
@@ -30,23 +27,20 @@ https://pablochristian.github.io/Portfolio/
 <p align="left">Link do Projeto: <a href="https://github.com/PabloChristian/ECommerce">Clique aqui</a></p>
 <p align="left"></p>
 
-<h3 align="left">🌱 Estudando&nbsp;</h3>
+#### 🌱 Estudando
 <p align="left">♦ CQRS</p>
 <p align="left">♦ AWS</p>
 <p align="left">♦ Angular</p>
 <p align="left"></p>
 
-<h3 align="left">💻 Lista dos meus projetos</h3>
+#### 💻 Lista dos meus projetos
 <p align="left"><a href="https://github.com/PabloChristian?tab=repositories">Clique aqui</a></p>
 <p align="left"></p>
-
-<h3 align="left">📫 Contato&nbsp;</h3>
-<p align="left">♦ Email: snakepablo@hotmail.com</p>
-<p align="left">♦ WhatsApp: (31) 9 99079989</p>
-  <p align="left"></p>
   
 #### 📫 Contato:
 <div align="center">
+♦ Email: snakepablo@hotmail.com
+♦ WhatsApp: (31) 9 99079989
 <a href="https://www.linkedin.com/in/pablo-christian/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
 </a>
@@ -62,7 +56,7 @@ https://pablochristian.github.io/Portfolio/
 </div>
 
 #### Development Stack:
-<p>
+
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width:100%;">
   </a>
@@ -99,10 +93,7 @@ https://pablochristian.github.io/Portfolio/
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/powershell.svg" alt="powersheel" style="max-width:100%;">
   </a>
-</p>
 
-![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyoliveira&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablochristian&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyoliveira&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/evyoliveira/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/evyoliveira/github-readme-stats)
