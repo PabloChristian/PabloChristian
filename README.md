@@ -8,7 +8,7 @@ https://pablochristian.github.io/Portfolio/
 
 #### 👨‍Conhecimentos
 <ul>
-<li>E xperiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</li>
+<li> Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</li>
 <li> Utilização das linguagens, Java, VB.NET, Javascript, HTML, CSS e SQL e framework Angular.</li>
 <li> Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</li>
 <li> Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</li>
@@ -16,23 +16,27 @@ https://pablochristian.github.io/Portfolio/
 <li> Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</li>
 <li> Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</li>
 </ul>
+
 #### 🔭 Habilidades Principais
-<p align="left">♦ .NET/.NET Core.</p>
-<p align="left">♦ ASP.NET Core MVC / WebAPI.</p>
-<p align="left">♦ REST.</p>
-<p align="left">♦ Estilo arquitetural Microserviços.</p>
-<p align="left">♦ Padrão arquitetural CQRS e Arquitetura Orientada a Eventos.</p>
-<p align="left">♦ Padrão de Design DDD.</p>
-<p align="left">♦ Padrões de Projeto (Singleton,Builder,Facade,FactoryMethod..).</p>
-<p align="left">♦ Clean Code.</p>
-<p align="left">♦ SOLID.</p>
-<p align="left"></p>
+<ul>
+<li> .NET/.NET Core.</li>
+<li> ASP.NET Core MVC / WebAPI.</li>
+<li> REST.</li>
+<li> Estilo arquitetural Microserviços.</li>
+<li> Padrão arquitetural CQRS e Arquitetura Orientada a Eventos.</li>
+<li> Padrão de Design DDD.</li>
+<li> Padrões de Projeto (Singleton,Builder,Facade,FactoryMethod..).</li>
+<li> Clean Code.</li>
+<li> SOLID.</li>
+</ul>
 
 #### 🌱 Estudando
+<ul>
 <p align="left">♦ CQRS</p>
 <p align="left">♦ AWS</p>
 <p align="left">♦ Angular</p>
 <p align="left"></p>
+</ul>
 
 #### 💻 Lista de Projetos &nbsp;
 <p align="left"><a href="https://github.com/PabloChristian?tab=repositories">Clique aqui</a></p>
