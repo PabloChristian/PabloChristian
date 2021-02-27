@@ -9,7 +9,7 @@ https://pablochristian.github.io/Portfolio/
 #### 👨‍Conhecimentos
 <ul>
 <li> Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</li>
-<li> Utilização das linguagens, Java, VB.NET, Javascript, HTML, CSS e SQL e framework Angular.</li>
+<li> Utilização das linguagens C#, Javascript, Java, VB.NET< HTML, CSS, SQL e frameworks .NET e Angular.</li>
 <li> Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</li>
 <li> Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</li>
 <li> Utilização de metodologias Ágeis Scrum e Kanban.</li>
