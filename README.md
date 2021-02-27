@@ -9,7 +9,7 @@ https://pablochristian.github.io/Portfolio/
 #### 👨‍Conhecimentos
 <ul>
 <li> Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</li>
-<li> Utilização das linguagens C#, Javascript, Java, VB.NET< HTML, CSS, SQL e frameworks .NET e Angular.</li>
+<li> Utilização das linguagens C#, Javascript, VB.NET, HTML, CSS, SQL e frameworks .NET , Angular e Bootstrap.</li>
 <li> Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</li>
 <li> Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</li>
 <li> Utilização de metodologias Ágeis Scrum e Kanban.</li>
@@ -60,16 +60,8 @@ https://pablochristian.github.io/Portfolio/
 #### Development Stack
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width:100%;">
-</a>
-  
-<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="max-width:100%;">
 </a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width:100%;">
-</a>
-
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width:100%;">
   </a>
