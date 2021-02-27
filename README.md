@@ -1,9 +1,9 @@
 Olá! 👋, Me chamo Pablo Christian.
 Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
-
+&nbsp;
 #### 💻 Portfolio Online (em construção):
 https://pablochristian.github.io/Portfolio/
-
+&nbsp;
 #### 👨‍Algumas características destacadas na minha trajetória profissional:
 <p align="left">♦ Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</p>
 <p align="left">♦ Utilização das linguagens, Java, VB.NET, Javascript, HTML, CSS e SQL e framework Angular.</p>
@@ -13,7 +13,7 @@ https://pablochristian.github.io/Portfolio/
 <p align="left">♦ Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</p>
 <p align="left">♦ Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</p>
 <p align="left"></p>
-
+&nbsp;
 #### 🔭 Habilidades Principais
 <p align="left">♦ .NET/.NET Core.</p>
 <p align="left">♦ ASP.NET Core MVC / WebAPI.</p>
@@ -26,18 +26,18 @@ https://pablochristian.github.io/Portfolio/
 <p align="left">♦ SOLID.</p>
 <p align="left">Link do Projeto: <a href="https://github.com/PabloChristian/ECommerce">Clique aqui</a></p>
 <p align="left"></p>
-
-#### 🌱 Estudando
+&nbsp;
+#### 🌱 Estudando &nbsp;
 <p align="left">♦ CQRS</p>
 <p align="left">♦ AWS</p>
 <p align="left">♦ Angular</p>
 <p align="left"></p>
-
-#### 💻 Lista dos meus projetos
+&nbsp;
+#### 💻 Lista dos meus projetos &nbsp;
 <p align="left"><a href="https://github.com/PabloChristian?tab=repositories">Clique aqui</a></p>
 <p align="left"></p>
-  
-#### 📫 Contato:
+&nbsp;
+#### 📫 Contato: &nbsp;
 <div align="center">
 ♦ Email: snakepablo@hotmail.com
 ♦ WhatsApp: (31) 9 99079989
@@ -93,7 +93,7 @@ https://pablochristian.github.io/Portfolio/
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/powershell.svg" alt="powersheel" style="max-width:100%;">
   </a>
-
+&nbsp;
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablochristian&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
-
+&nbsp;
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/evyoliveira/github-readme-stats)
