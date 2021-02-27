@@ -1,3 +1,4 @@
+<div align="left">
 Olá! 👋, Me chamo Pablo Christian.
 Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
 &nbsp;
@@ -38,9 +39,8 @@ https://pablochristian.github.io/Portfolio/
 <p align="left"></p>
 &nbsp;
 #### 📫 Contato: &nbsp;
-<div align="center">
-♦ Email: snakepablo@hotmail.com
-♦ WhatsApp: (31) 9 99079989
+<p align="left">♦ Email: snakepablo@hotmail.com</p>
+<p align="left">♦ WhatsApp: (31) 9 99079989</p>
 <a href="https://www.linkedin.com/in/pablo-christian/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
 </a>
@@ -97,3 +97,4 @@ https://pablochristian.github.io/Portfolio/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablochristian&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
 &nbsp;
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/evyoliveira/github-readme-stats)
+</div>
