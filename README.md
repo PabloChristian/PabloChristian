@@ -4,38 +4,8 @@
 Olá! 👋, Me chamo Pablo Christian.
 Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
 
-#### 💻 Portfolio Online (em construção):
+#### 💻 Portfolio Online (em construção)
 https://pablochristian.github.io/Portfolio/
-
-#### 👨‍Conhecimentos
-<ul>
-<li> Experiência em desenvolvimento, engenharia e arquitetura de sistemas voltados na Plataforma .NET, .NET Core e ASP.NET Core</li>
-<li> Utilização das linguagens C#, Javascript, VB.NET, HTML, CSS, SQL e frameworks .NET , Angular e Bootstrap.</li>
-<li> Aplicação de técnicas de desenvolvimento e arquitetura, utilizando SOLID, Clean Code, Padrões de Projeto, Estilos e Padrões de Arquitetura.</li>
-<li> Engenharia de Requisitos, realizando todo o processo de levantamento, análise e especificação de requisitos.</li>
-<li> Utilização de metodologias Ágeis Scrum e Kanban.</li>
-<li> Modelagem e desenvolvimento de domínios arquiteturais utilizando MVC, DDD e separação por camadas.</li>
-<li> Desenvolvimento de WebAPIs baseada em Rest, utilizando ASP.NET Core MVC e WebApi.</li>
-</ul>
-
-#### 🔭 Habilidades Principais
-<ul>
-<li> .NET/.NET Core.</li>
-<li> ASP.NET Core MVC / WebAPI.</li>
-<li> REST.</li>
-<li> Estilo arquitetural Microserviços.</li>
-<li> Padrão arquitetural CQRS e Arquitetura Orientada a Eventos.</li>
-<li> Padrão de Design DDD.</li>
-<li> Padrões de Projeto (Singleton,Builder,Facade,FactoryMethod..).</li>
-<li> Clean Code.</li>
-<li> SOLID.</li>
-</ul>
-
-#### 🌱 Estudando
-<ul>
-<li> Angular</li>
-<li> Azure</li>
-</ul>
 
 #### 💻 Lista de Projetos &nbsp;
 <p align="left"><a href="https://github.com/PabloChristian?tab=repositories">Clique aqui</a></p>
