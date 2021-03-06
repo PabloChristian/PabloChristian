@@ -4,14 +4,10 @@
 Olá! 👋, Me chamo Pablo Christian.
 Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
 
-#### 💻 Portfolio Online (em construção)
+### 💻 Portfolio Online (em construção)
 https://pablochristian.github.io/Portfolio/
 
-#### 💻 Lista de Projetos &nbsp;
-<p align="left"><a href="https://github.com/PabloChristian?tab=repositories">Clique aqui</a></p>
-<p align="left"></p>
-
-#### 📫 Contato &nbsp;
+### 📫 Contato &nbsp;
 <p align="left"><b>Email: snakepablo@hotmail.com</p></b>
 <a href="https://www.linkedin.com/in/pablo-christian/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
@@ -27,7 +23,7 @@ https://pablochristian.github.io/Portfolio/
 </a>
 </div>
 
-#### Development Stack
+### Development Stack
 <p>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="max-width:100%;">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
