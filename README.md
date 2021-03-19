@@ -18,7 +18,7 @@ https://pablochristian.github.io/Portfolio/
 <a href="https://www.instagram.com/pablo.cpnazareth/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">
 </a>
-<a href="https://medium.com/@snakepablo2010" rel="nofollow">
+<a href="https://medium.com/@pablo-christian" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/35b14b228e430c7f39f7a176007450936c99c9db42d170119d88d63044b27070/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="medium" data-canonical-src="https://img.shields.io/badge/medium-black?&amp;style=flat-square&amp;logo=medium&amp;logoColor=white" style="max-width:100%;">
 </a>
 </div>
