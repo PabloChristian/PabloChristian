@@ -1,13 +1,18 @@
 <div align="left">
 <img src=".\me-capa.png" width=800 height=250></img>
 
+[PORTUGUÊS]
 Olá! 👋, Me chamo Pablo Christian.
-Sou um profissional Pós graduado em Engenharia de Software, e em andamento Pós Graduação em Arquitetura de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
+Sou um Engenheiro e Arquiteto de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
 
-### 💻 Portfolio Online (em construção)
+[ENGLISH]
+Hello!👋, im Pablo Christian.
+Im a Software Architect and Engineer. Professional experiêncie with more than five years on development, eight years on ERP and POS software.
+
+### 💻 Portfolio
 https://pablochristian.github.io/Portfolio/
 
-### 📫 Contato &nbsp;
+### 📫 Contact &nbsp;
 <p align="left"><b>Email: snakepablo@hotmail.com</p></b>
 <a href="https://www.linkedin.com/in/pablo-christian/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
