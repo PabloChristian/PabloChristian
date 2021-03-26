@@ -1,11 +1,11 @@
 <div align="left">
 <img src=".\me-capa.png" width=800 height=250></img>
 
-<b>[PORTUGUÊS/PORTUGUESE]</b>&nbsp;
+<b>[PORTUGUÊS/PORTUGUESE]</b><br>
 Olá! 👋, Me chamo Pablo Christian.
 Sou um Engenheiro e Arquiteto de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
-
-<b>[ENGLISH/INGLÊS]</b>&nbsp;
+<br>
+<b>[ENGLISH/INGLÊS]</b><br>
 Hello!👋, im Pablo Christian.
 Im a Software Architect and Engineer. Professional experiêncie with more than five years on development, eight years on ERP and POS software.
 
