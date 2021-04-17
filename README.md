@@ -9,8 +9,6 @@ Sou um Engenheiro e Arquiteto de Software. Experiência profissional com mais de
 Hello!👋, im Pablo Christian.
 Im a Software Architect and Engineer. Professional experiêncie with more than five years on development, eight years on ERP and POS software.
 
-<img src = "https://lh3.googleusercontent.com/proxy/TTyR2haO0Ah-nf772MMq4oi2fUZFXergClgzp_P2GOSlYJQ-MirxaUcxdu3escd95GYBKHjbDhpVpJP1R8Jaez47NnsiBQuyi5ofHHYFFxphhOYwJ4gMo0tQHC7B0YWDo40G" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador">
-
 ### 💻 Portfolio
 https://pablochristian.github.io/Portfolio/
 
