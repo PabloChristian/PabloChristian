@@ -17,7 +17,8 @@ https://pablochristian.github.io/Portfolio/
 	<li><a href="https://pablo-christian.medium.com/ddd-o-que-%C3%A9-o-domain-driven-design-de-um-jeito-simples-93ea0c9a111">DDD - o que é o Domain-Driven Design de um jeito simples</a></li>
 	<li><a href="https://pablo-christian.medium.com/%EF%B8%8F-validando-dados-com-fluent-validation-em-uma-aplica%C3%A7%C3%A3o-mvc-e-webapi-6024c20b4924">Validando dados com Fluent Validation em uma aplicação MVC e WebAPI</a></li>
 	<li><a href="https://pablo-christian.medium.com/microsservi%C3%A7os-o-que-s%C3%A3o-e-quando-devemos-utilizar-cbe0d4275525">Microsserviços: o que são e quando utilizar?</a></li>
-</ul>
+</ul>&nbsp;
+
 ### 📫 Contact &nbsp;
 <p align="left"><b>Email: snakepablo@hotmail.com</p></b>
 <a href="https://www.linkedin.com/in/pablo-christian/" rel="nofollow">
