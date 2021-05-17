@@ -3,11 +3,23 @@
 <br>
 <b>[PORTUGUÊS/PORTUGUESE]</b><br>
 Olá! 👋, Me chamo Pablo Christian.
-Sou um Engenheiro e Arquiteto de Software. Experiência profissional com mais de 5 anos na área de desenvolvimento de software, e 8 anos de experiência no setor de Software ERP e PDV.
+Gosto de dizer que respiro e vivo tecnologia. Sempre tentando me atualizar e estar alinhado com as tecnologias de mercado, adquirindo mais de quarenta certificações nas áreas de Desenvolvimento, Engenharia, Arquitetura de Software e Cloud.
+
+Com uma vasta experiência em processos e desenvolvimento de software focado para o varejo, atuando em segmentos de software de gestão, ponto de venda e restaurante há mais de oito anos. Atuação nas áreas de Financeiro, Fiscal, Compras, Estoque, Controle de Produção, Frente de Loja e Restaurante.
+
+Participação em entrega de vários projetos, atuando nas áreas de desenvolvimento, suporte e implantação, sendo responsável pelo levantamento, análise, codificação, acompanhamento e entrega.
+
+Pós graduado em Engenharia de Software, e em andamento pós graduação em Arquitetura de Software, ambas pela instituição PUC MG. Graduado em Análise e Desenvolvimento de Software pela Universidade Estácio, e curso técnico profissionalizante de três anos em TI pela instituição COTEMIG.
 <br><br>
 <b>[ENGLISH/INGLÊS]</b><br>
 Hello!👋, im Pablo Christian.
-Im a Software Architect and Engineer. Professional experiêncie with more than five years on development, eight years on ERP and POS software.
+I like to say that I breathe and live technology. Always trying to update myself and be in line with market technologies, acquiring more than forty certifications in the areas of Development, Engineering, Software Architecture and Cloud.
+
+Extensive experience in processes and software development focused on retail, working in software management, point of sale and restaurant segments for over eight years. Expertise in the areas of Finance, Tax, Purchasing, Inventory, Production Control, Store Front and Restaurant.
+
+Participation in delivery of various projects, working in the areas of development, support and implementation, being responsible for the survey, analysis, monitoring, monitoring and delivery.
+
+Post-graduated in Software Engineering, and in progress post-graduate in Software Architecture, both from the institution PUC MG. Graduated in Analysis and Software Development from Universidade Estácio, and professional technical course of three years in IT from the institution COTEMIG.
 
 ### 💻 Portfolio
 https://pablochristian.github.io/Portfolio/
