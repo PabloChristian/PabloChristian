@@ -1,5 +1,5 @@
 <div align="left">
-<img src=".\me-capa-new.png" width=800 height=250></img>
+<img src=".\me-capa.png" width=800 height=250></img>
 <br>
 <b>[PORTUGUÊS/PORTUGUESE]</b><br>
 Olá! 👋, Me chamo Pablo Christian.
