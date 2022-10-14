@@ -35,6 +35,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&langs_count=10&theme=dark)](https://github.com/pablochristian/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&langs_count=8&theme=dark)](https://github.com/pablochristian/github-readme-stats)
 
 </div>
