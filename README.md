@@ -36,5 +36,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/pablochristian/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pablochristian)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
